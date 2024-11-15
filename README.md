@@ -1,2 +1,3 @@
 # SPAC-POS-RELEASES
-Electron releases for spac pos app
+App releases for spac pos app
+(Private app)
